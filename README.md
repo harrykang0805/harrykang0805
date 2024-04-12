@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<a href="harrykang.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-black?style=plastic&logo=로고&logoColor=gray"/></a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harrykang0805&show_icons=true&theme=radical)
