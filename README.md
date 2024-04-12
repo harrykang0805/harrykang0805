@@ -17,5 +17,7 @@ Here are some ideas to get you started:
 
 
  <a href="https://harrykang.tistory.com" target="_blank"><img src="https://img.shields.io/badge/TistoryBlog-black?style=plastic&logo=Tistory&logoColor=#000000"/></a>
+ <a href="https://www.instagram.com/kang_harry_7/" target="_blank"><img src="https://img.shields.io/badge/Instagram-Pink?style=plastic&logo=Instagram&logoColor=##E4405F"/></a>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harrykang0805&show_icons=true&theme=radical)
