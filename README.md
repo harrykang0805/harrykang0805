@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+
 ### Hi there 👋
 
 <!--
@@ -13,8 +15,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" /> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harrykang0805)](https://github.com/anuraghazra/github-readme-stats)</p>
  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=harrykang0805&theme=dark" alt="GitHub Streak" /></a>
@@ -23,3 +23,6 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harrykang0805&show_icons=true&theme=radical)
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" /> 
