@@ -3,7 +3,6 @@
 <!--
 **harrykang0805/harrykang0805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![header](https://capsule-render.vercel.app/api?type=Waving)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,7 +13,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![header](https://capsule-render.vercel.app/api?type=Waving)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harrykang0805)](https://github.com/anuraghazra/github-readme-stats)</p>
  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=harrykang0805&theme=dark" alt="GitHub Streak" /></a>
  <a href="https://harrykang.tistory.com" target="_blank"><img src="https://img.shields.io/badge/TistoryBlog-black?style=plastic&logo=Tistory&logoColor=#000000"/></a>
