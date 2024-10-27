@@ -28,6 +28,7 @@
 ## 💼 Project Experiences
 
 ### 자취생을 위한 홈케어 정보 공유 플랫폼 (2024.07 - 2024.08) / 부팀장 / Backend
+https://github.com/harrykang0805/HOUSEKEEPING_BACKEND
 - OAuth2.0과 JWT를 결합한 스테이트리스 인증 시스템 구현
 - RESTful API를 활용한 게시글 CRUD 기능 및 카테고리별 관리 시스템 구현
 - Spring Security를 활용한 역할 기반 접근 제어(RBAC) 구현
