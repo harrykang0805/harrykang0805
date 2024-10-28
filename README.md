@@ -37,6 +37,7 @@ https://github.com/harrykang0805/HOUSEKEEPING_BACKEND
 <br>
 
 ### 축제 및 팝업 스토어 정보 공유 플랫폼 (2024.06 - 2024.07) / 부팀장 / Backend
+https://github.com/harrykang0805/POPSTIVER_GRADLE_MVC
 - OAuth2.0를 Session 방식과 JWT를 결합한 하이브리드 인증 시스템 구현
 - WebSocket과 STOMP 프로토콜을 이용한 실시간 1:1 채팅 시스템 구현
 - JdbcTemplate과 MyBatis를 활용한 데이터 접근 계층 최적화
